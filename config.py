@@ -3,7 +3,7 @@
 # ──────────────────────────────────────────────
 
 # Zone capacity (max safe occupancy for the monitored area)
-ZONE_CAPACITY = 1
+ZONE_CAPACITY = 5
 
 # Camera
 CAMERA_INDEX = 1  # 0 = default webcam
