@@ -4,3 +4,4 @@ __pycache__/
 .env
 
 crowd_data.db/
+crowd_data.bd
